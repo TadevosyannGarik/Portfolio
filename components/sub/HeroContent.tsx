@@ -65,14 +65,14 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[700px]"
         >
-          Hello! I'm Garik, an aspiring Full Stack Software Engineer with experience in web development. 
+          Hello! Im Garik, an aspiring Full Stack Software Engineer with experience in web development. 
           I'm currently a first-year student at Plekhanov Russian University of Economics, majoring in 
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               {" "}
               Applied 
               Informatics. {" "}
             </span>
-           I'm passionate about programming and constantly improving my skills. Check out my projects 
+           Im passionate about programming and constantly improving my skills. Check out my projects 
           to see how I bring ideas to life through technology.
         </motion.p>
         <motion.a
