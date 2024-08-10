@@ -66,7 +66,7 @@ const HeroContent = () => {
           className="text-lg text-gray-400 my-5 max-w-[700px]"
         >
           Hello! Im Garik, an aspiring Full Stack Software Engineer with experience in web development. 
-          I'm currently a first-year student at Plekhanov Russian University of Economics, majoring in 
+          Im currently a first-year student at Plekhanov Russian University of Economics, majoring in 
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               {" "}
               Applied 
