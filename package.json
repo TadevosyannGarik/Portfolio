@@ -10,17 +10,19 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
+    "@types/three": "^0.167.1",
     "clsx": "^2.1.1",
     "next": "13.5.6",
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^4.11.0",
     "react-lottie": "^1.2.4",
+    "react-three-fiber": "^6.0.13",
     "tailwind-merge": "^2.4.0"
   },
   "devDependencies": {
     "@react-three/drei": "^9.88.4",
-    "@react-three/fiber": "^8.17.1",
+    "@react-three/fiber": "^8.17.5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
